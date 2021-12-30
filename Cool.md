@@ -4,3 +4,6 @@
 
 ### YouTube
 - [The Roast of Weed](https://www.youtube.com/watch?v=HP_aGGgR4Vs)
+
+### Random
+- [Petalica Paint](https://petalica-paint.pixiv.dev/index_en.html)
