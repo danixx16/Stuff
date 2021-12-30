@@ -27,3 +27,4 @@
 - [AudioAlter](https://audioalter.com "Edit audio in many different ways")
 - [PsychonautWiki](https://psychonautwiki.org/wiki/Main_Page "Wikipedia for drugs (whether you're looking at dosages or just find it interesting)")
 - [InteractiveFics](https://chrome.google.com/webstore/detail/interactivefics/pcpjpdomcbnlkbghmchnjgeejpdlonli "A chrome extension to make fanfics interactive")
+- [Discord Data Package Explorer](https://ddpe.androz2091.fr "Shows you your Discord stats from your requested data")
