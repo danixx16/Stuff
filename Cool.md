@@ -25,3 +25,4 @@
 ### Random
 - [Style2Paints](https://github.com/lllyasviel/style2paints "AI driven line art colorization tool") & [Petalica Paint](https://petalica-paint.pixiv.dev/index_en.html "Like S2P but a website")
 - [AudioAlter](https://audioalter.com "Edit audio in many different ways")
+- [PsychonautWiki](https://psychonautwiki.org/wiki/Main_Page "Wikipedia for drugs (whether you're looking at dosages or just find it interesting)")
