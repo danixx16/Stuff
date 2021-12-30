@@ -7,3 +7,12 @@
 
 ### Random
 - [Petalica Paint](https://petalica-paint.pixiv.dev/index_en.html)
+
+### Apps
+- Android
+  - [Aliucord](https://github.com/Aliucord/Aliucord/releases)
+  - [YouTube Vanced](https://vancedapp.com/)
+  - [Tachiyomi](https://tachiyomi.org/)
+- PC
+  - [CursorFX](https://download.cnet.com/CursorFX/3000-2317_4-10070056.html?part=dl-80664)
+  - [Yuna](https://github.com/BeeeQueue/yuna/releases)
