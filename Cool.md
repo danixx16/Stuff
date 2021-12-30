@@ -7,10 +7,6 @@
 ### YouTube
 - [The Roast of Weed](https://youtu.be/HP_aGGgR4Vs "A funny cartoon skit about drugs")
 
-### Random
-- [Style2Paints](https://github.com/lllyasviel/style2paints "AI driven line art colorization tool") & [Petalica Paint](https://petalica-paint.pixiv.dev/index_en.html "Like S2P but a website")
-- [AudioAlter](https://audioalter.com "Edit audio in many different ways")
-
 ### Apps & Stuff
 - Android
 	- [Aliucord](https://github.com/Aliucord/Aliucord/releases "The best Discord mod for mobile")
@@ -25,3 +21,7 @@
 	- [BlockTheSpot](https://github.com/mrpond/BlockTheSpot "Remove ads from Spotify without editing the hosts file")
 	- [StartAllBack](https://startallback.com "Customize the windows Start Menu, Taskbar, and File Explorer")
 	- [Revolt](https://github.com/revoltchat "Well.. Discord but not. Has it's pros and cons and is FOSS")
+
+### Random
+- [Style2Paints](https://github.com/lllyasviel/style2paints "AI driven line art colorization tool") & [Petalica Paint](https://petalica-paint.pixiv.dev/index_en.html "Like S2P but a website")
+- [AudioAlter](https://audioalter.com "Edit audio in many different ways")
