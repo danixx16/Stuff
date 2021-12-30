@@ -2,6 +2,7 @@
 `(Hover on links for more info)`
 ### Webtoons
 - [Meme Girls](https://webtoons.com/en/challenge/meme-girls/list?title_no=304446 "A funny/cute webtoon about memes, current events, etc.")
+- [Meow Meow](https://www.webtoons.com/en/challenge/meow-meow-/list?title_no=596524 "AHHH CUTENESS!!!")
 
 ### YouTube
 - [The Roast of Weed](https://youtu.be/HP_aGGgR4Vs "A funny cartoon skit about drugs")
