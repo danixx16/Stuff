@@ -17,7 +17,7 @@
 	- [xManager](https://github.com/xManager-v2/xManager-Spotify/releases "Spotify mod (like YT Vanced)")
 	- [Instander](https://thedise.me/instander/ "Instagram mod")
 	- [Tachiyomi](https://tachiyomi.org "The best Manga reader app")
-- PC (Win)
+- PC (<img src="http://vignette4.wikia.nocookie.net/logopedia/images/8/84/Windows_symbol_2000s.svg/revision/latest?cb=20161001134149" width="12" />)
 	- [CursorFX](https://download.cnet.com/CursorFX/3000-2317_4-10070056.html "A free trial of a paid app to change your cursor")
 	- [Yuna](https://github.com/BeeeQueue/yuna/releases "An app to stream anime and update your anime list automatically")
 	- [Spicetify](https://github.com/khanhas/spicetify-cli "Theme your Spotify")
