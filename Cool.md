@@ -18,7 +18,6 @@
 	- [CursorFX](https://download.cnet.com/CursorFX/3000-2317_4-10070056.html "A free trial of a paid app to change your cursor")
 	- [Yuna](https://github.com/BeeeQueue/yuna/releases "An app to stream anime and update your anime list automatically")
 	- [Spicetify Marketplace](https://github.com/CharlieS1103/spicetify-marketplace "Spice up your Spotify")
-	- [BlockTheSpot](https://github.com/mrpond/BlockTheSpot "Remove ads from Spotify without editing the hosts file")
 	- [StartAllBack](https://startallback.com "Customize the windows Start Menu, Taskbar, and File Explorer")
 	- [Revolt](https://github.com/revoltchat "Well.. Discord but not. Has it's pros and cons and is FOSS")
 
