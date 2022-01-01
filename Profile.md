@@ -8,6 +8,8 @@ Hawaii: sometimes<br>
 
 ## Socials
 Discord: [dsc.bio](https://discords.com/bio/p/ellaxoxo)<br>
-Revolt: @Ella.<br>
-AniList: @[ellaxx](https://anilist.co/user/ellaxx)<br>
-last.fm: @[ellaxx_16](https://last.fm/user/ellaxx_16)
+Revolt: Ella.<br>
+AniList: [ellaxx](https://anilist.co/user/ellaxx)<br>
+last.fm: [ellaxx_16](https://last.fm/user/ellaxx_16)<br>
+Spotify: [xvi](https://open.spotify.com/user/whie9u6qxgfsyxemhk7ozxhna)<br>
+SoundCloud: [Ella](https://soundcloud.com/ellaxx16)
