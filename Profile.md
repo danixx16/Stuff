@@ -6,7 +6,7 @@ How: Because<br>
 Favorite Pet: Mine<br>
 Hawaii: sometimes<br>
 
-# Socials
+## Socials
 Discord: [dsc.bio](https://discords.com/bio/p/ellaxoxo)<br>
 Revolt: @Ella.<br>
 AniList: @[ellaxx](https://anilist.co/user/ellaxx)
