@@ -9,4 +9,5 @@ Hawaii: sometimes<br>
 ## Socials
 Discord: [dsc.bio](https://discords.com/bio/p/ellaxoxo)<br>
 Revolt: @Ella.<br>
-AniList: @[ellaxx](https://anilist.co/user/ellaxx)
+AniList: @[ellaxx](https://anilist.co/user/ellaxx)<br>
+last.fm: @[ellaxx_16](https://last.fm/user/ellaxx_16)
