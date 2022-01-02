@@ -1,13 +1,13 @@
 # A List of Cool Stuff :D
 `(Hover on links/icons for more info)`
-### Webtoons
+### <img src="https://user-images.githubusercontent.com/88865846/147873103-27dfe9f0-b3bc-4d78-9bc5-beb8a81b74a4.png" width="16px" /> Webtoons
 - [Meme Girls](https://webtoons.com/en/challenge/meme-girls/list?title_no=304446 "A funny/cute webtoon about memes, current events, etc.")
 - [Meow Meow](https://www.webtoons.com/en/challenge/meow-meow-/list?title_no=596524 "AHHH CUTENESS!!!")
 
-### YouTube
+### <img src="https://all-4-one.com/wp-content/uploads/2020/12/youtube-icon-logo-logo-icon-png-svg.png" width="18px" /> YouTube
 - [The Roast of Weed](https://youtu.be/HP_aGGgR4Vs "A funny cartoon skit about drugs")
 
-### Apps & Stuff
+### <img src="https://image.flaticon.com/icons/png/512/199/199570.png" width="16px" /> Apps & Stuff
 - Mobile ( [<img src="https://www.nicepng.com/png/full/270-2705148_android-alpha-logo-ideas-complete-android-guide-book.png" width="10" />](Cool.md#apps--stuff "Android") )
 	- [Aliucord](https://github.com/Aliucord/Aliucord/releases "The best Discord mod for mobile")
 	- [YouTube Vanced](https://vancedapp.com "YouTube mod")
