@@ -7,7 +7,7 @@ Favorite Pet: Mine<br>
 Hawaii: sometimes<br>
 
 ## Socials
-Discord: <a href="https://discords.com/bio/p/ellaxoxo" target="_blank">dsc.bio</a><br>
+Discord: [dsc.bio](https://discords.com/bio/p/ellaxoxo)<br>
 Revolt: Ella.<br>
 AniList: [ellaxx](https://anilist.co/user/ellaxx)<br>
 last.fm: [ellaxx_16](https://last.fm/user/ellaxx_16)<br>
