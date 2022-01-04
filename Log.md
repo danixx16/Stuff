@@ -7,3 +7,5 @@
 > I forgot to read <img src="https://cdn.discordapp.com/emojis/901246173493461003.png" width="12px" /> gonna do that *now*
 
 > my head hurts
+
+> i think i got covid smh
