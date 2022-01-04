@@ -2,7 +2,7 @@
 `(Hover on links/icons for more info)`
 ### <img src="https://user-images.githubusercontent.com/88865846/147873103-27dfe9f0-b3bc-4d78-9bc5-beb8a81b74a4.png" width="16px" /> Webtoons
 - [Meme Girls](https://webtoons.com/en/challenge/meme-girls/list?title_no=304446 "A funny/cute webtoon about memes, current events, etc.")
-- [Meow Meow](https://www.webtoons.com/en/challenge/meow-meow-/list?title_no=596524 "AHHH CUTENESS!!!")
+- [Meow Meow](https://webtoons.com/en/challenge/meow-meow-/list?title_no=596524 "AHHH CUTENESS!!!")
 
 ### <img src="https://all-4-one.com/wp-content/uploads/2020/12/youtube-icon-logo-logo-icon-png-svg.png" width="18px" /> YouTube
 - [The Roast of Weed](https://youtu.be/HP_aGGgR4Vs "A funny cartoon skit about drugs")
@@ -27,3 +27,4 @@
 - [PsychonautWiki](https://psychonautwiki.org/wiki/Main_Page "Wikipedia for drugs (whether you're looking at dosages or just find it interesting)")
 - [InteractiveFics](https://chrome.google.com/webstore/detail/interactivefics/pcpjpdomcbnlkbghmchnjgeejpdlonli "A chrome extension to make fanfics interactive")
 - [Discord Data Package Explorer](https://ddpe.androz2091.fr "Shows you your Discord stats from your requested data")
+- [Genshin Interactive Map](https://genshin-impact-map.appsample.com/ "Find and track everything you need with explanations/images")
