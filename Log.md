@@ -9,3 +9,7 @@
 > my head hurts
 
 > i think i got covid smh
+
+> this is so dumb im done
+
+### END LOG
