@@ -24,6 +24,7 @@
 
 ### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Netflix_2015_N_logo.svg/660px-Netflix_2015_N_logo.svg.png" width="10" />etflix
 - [Love, Death & Robots](https://netflix.com/us/title/80174608/ "One of my new favorite shows")
+- [The Midnight Gospel](https://www.netflix.com/us/title/80987903/ "A.. podcast. in space. I think?")
 
 ### 🔀 Random
 - [Style2Paints](https://github.com/lllyasviel/style2paints "AI driven line art colorization tool") & [Petalica Paint](https://petalica-paint.pixiv.dev/index_en.html "Like S2P but a website")
