@@ -1,11 +1,5 @@
-# A List of Cool Stuff :D
+# A List of Cool Stuff
 `(Hover on links/icons for more info)`
-### <img src="https://user-images.githubusercontent.com/88865846/147873103-27dfe9f0-b3bc-4d78-9bc5-beb8a81b74a4.png" width="16px" /> Webtoons
-- [Meme Girls](https://webtoons.com/en/challenge/meme-girls/list?title_no=304446 "A funny/cute webtoon about memes, current events, etc.")
-- [Stalker x Stalker](https://www.webtoons.com/en/challenge/stalker-x-stalker/list?title_no=245662 "Pretty much me and my ex")
-
-### <img src="https://all-4-one.com/wp-content/uploads/2020/12/youtube-icon-logo-logo-icon-png-svg.png" width="18px" /> YouTube
-- [The Roast of Weed](https://youtu.be/HP_aGGgR4Vs "A funny cartoon skit about drugs")
 
 ### <img src="https://image.flaticon.com/icons/png/512/199/199570.png" width="16px" /> Apps & Stuff
 - Mobile ( [<img src="https://www.nicepng.com/png/full/270-2705148_android-alpha-logo-ideas-complete-android-guide-book.png" width="10" />](Cool.md#-apps--stuff "Android") )
@@ -20,6 +14,13 @@
 	- [Spicetify Marketplace](https://github.com/CharlieS1103/spicetify-marketplace "Spice up your Spotify")
 	- [StartAllBack](https://startallback.com "Customize the windows Start Menu, Taskbar, and File Explorer")
 	- [Revolt](https://github.com/revoltchat "Well.. Discord but not. Has it's pros and cons and is FOSS")
+
+### <img src="https://user-images.githubusercontent.com/88865846/147873103-27dfe9f0-b3bc-4d78-9bc5-beb8a81b74a4.png" width="16px" /> Webtoons
+- [Meme Girls](https://webtoons.com/en/challenge/meme-girls/list?title_no=304446 "A funny/cute webtoon about memes, current events, etc.")
+- [Stalker x Stalker](https://www.webtoons.com/en/challenge/stalker-x-stalker/list?title_no=245662 "Pretty much me and my ex")
+
+### <img src="https://all-4-one.com/wp-content/uploads/2020/12/youtube-icon-logo-logo-icon-png-svg.png" width="18px" /> YouTube
+- [The Roast of Weed](https://youtu.be/HP_aGGgR4Vs "A funny cartoon skit about drugs")
 
 ### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Netflix_2015_N_logo.svg/660px-Netflix_2015_N_logo.svg.png" width="10" />etflix
 - [Love, Death & Robots](https://netflix.com/us/title/80174608/ "One of my new favorite shows")
