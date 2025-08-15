@@ -2,7 +2,7 @@
 `(Hover on links/icons for more info)`
 
 ### Apps & Stuff
-- Android ( [<img src="https://www.nicepng.com/png/full/270-2705148_android-alpha-logo-ideas-complete-android-guide-book.png" width="10" />](Cool.md#-apps--stuff "Android") )
+- Android
 	- [Revenge](https://github.com/revenge-mod/revenge-bundle) - Theme/mod the newest versions of Discord
 	- [Aliucord](https://aliucord.com) - More stable Discord mod that runs on older (pre-React) version
 	- [ReVanced](https://revancedapp.com) - App modifier/premium unlock (Spotify, YouTube, YTM, TikTok, etc.)
